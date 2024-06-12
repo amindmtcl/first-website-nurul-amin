@@ -5,24 +5,30 @@
         margin:0px;
     }
     h1{    color: #240d92;
-        font-size: 60px;
+        font-size: 40px;
         margin: 0px 0px 50px 0px;
-        padding: 10px 50px 0px 150px;
+        padding: 10px 20px 0px 120px;
         box-sizing: border-box;
        
-        width: 1260px;
+        width: 1000px;
     }
     .box{
         background-color: #c4ffe7;
-        width: 1000px;
+        width: 800px;
         margin-left: auto;
         margin-right: auto;
         margin-top: 50px;
         border-radius: 30px;
 
-        span{
-            color: rgb(0, 255, 64);
-        }
+    span{
+        display: inline;color: rgb(42, 13, 150);
+        background-color: rgb(212, 203, 69);
+        border-radius: 10px;
+        display: inline-block;
+        padding: ;
+    }
+
+      
 
         img{
             max-width: 100%;
